@@ -326,15 +326,15 @@ class _MyHomePageState extends State<MyHomePage> {
           FormBuilderDropdown(
             attribute: "priority",
             decoration: InputDecoration(
-                labelText: "Vendor",
+                labelText: "Priority",
                 border: InputBorder.none,
                 filled: true,
                 fillColor: Color(0xfffdfdfd)),
             hint: Text('Select Priority'),
             validators: [FormBuilderValidators.required()],
             items: ['High', 'Medium', 'Low']
-                .map((vendor) =>
-                    DropdownMenuItem(value: vendor, child: Text("$vendor")))
+                .map((priority) =>
+                    DropdownMenuItem(value: priority, child: Text("$priority")))
                 .toList(),
             initialValue: 'High',
           ),
