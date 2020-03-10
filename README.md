@@ -1,11 +1,17 @@
-# gij_todo_app
+# Todo App
 
-A new Flutter application.
+A sample to do app build during GIJ's tech month.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+> Screenshots of the projects are in the screenshots folder
 
+## Project Setup
+- Clone this project.
+- Run `flutter packages get`
+- Open an emulator and run `flutter run`
+
+## Resources
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
@@ -14,3 +20,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Todo App Resources
