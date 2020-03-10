@@ -1,10 +1,11 @@
 # Todo App
 
-A sample to do app build during GIJ's tech month.
+A sample to do app built for GIJ's tech month.
 
 ## Getting Started
 
 > Screenshots of the projects are in the screenshots folder
+
 > Presentation slides are in slides folder - ppt and pdf
 
 ## Project Setup
@@ -30,7 +31,6 @@ samples, guidance on mobile development, and a full API reference.
 - https://b-ok.cc/book/5336752/c75e2a - Flutter in Action
 - https://b-ok.cc/book/5304545/f7e889 - Beginning App dev with Flutter
 - https://youtu.be/I9ceqw5Ny-4?list=RDCMUCVD5Vh9LhLBxp3o1vRNyf_w  - Flutter Video Setup
-- Project Github link
 - https://flutter.dev/docs/get-started/install - Flutter Setup
 - https://play.google.com/store/apps/details?id=com.francisdeh.timeapp - Time App
 - https://mega.nz/#F!vPwTESiS - Cloud link for all setups, books and videos
